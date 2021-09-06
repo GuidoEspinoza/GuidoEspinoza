@@ -1,6 +1,4 @@
-## Bienvenidos
-## Soy Guido Espinoza, desarrollador Front End
-## 🌱 Me encuentro aprendiendo Vue JS
+## Bienvenidos a mi repositorio!!
 
 <!--
 **GuidoEspinoza/GuidoEspinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
