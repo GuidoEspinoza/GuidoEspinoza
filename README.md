@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SR Consultores as Front End Developer<br>⚡ Fun fact: I try to be a gamer 
+🔭 I’m Front End Developer<br>⚡ Fun fact: I try to be a gamer 
 
 
 ## 🌐 Socials:
