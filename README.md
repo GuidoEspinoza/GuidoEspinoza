@@ -37,9 +37,6 @@ Soy metódico y estructurado, busco la excelencia y detesto los resultados medio
 ## 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https://www.guidoespinoza.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Web-guidoespinoza.dev-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web de Guido Espinoza"/>
-  </a>
   <a href="https://linkedin.com/in/guido-espinoza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -98,12 +95,6 @@ Soy metódico y estructurado, busco la excelencia y detesto los resultados medio
 - ✨ Perseverante, metódico y estructurado
 - 😂 Sé reír y hacer reír; siempre apoyo a mi equipo y amigos
 - 🟫 Antes gamer, ahora constructor de mundos en Minecraft
-
----
-
-## 📬 Contacto
-
-- 📧 <b>Mail profesional:</b> contacto@guidoespinoza.dev
 
 ---
 
